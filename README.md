@@ -22,7 +22,3 @@ A responsive and visually appealing website template powered by HTML and CSS, de
 │   ├── videos/          # Video files
 
 
-
-<h3>Clone this repo: </h3>
-<span>git clone https://github.com/your-username/your-repo.git
-</span>
